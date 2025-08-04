@@ -46,14 +46,4 @@ Built using **HTML5** and **CSS3**, this project showcases our story, menu, serv
 
 ---
 
-## 📸 Preview
 
-> *(Add screenshots or a GIF here showing your site!)*
-
----
-
-## 🚀 Getting Started
-
-1. **Clone this repository**  
-```bash
-git clone https://github.com/your-username/brewtime-website.git
